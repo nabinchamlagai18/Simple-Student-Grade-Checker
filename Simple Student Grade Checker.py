@@ -1,4 +1,4 @@
-# Subjects stored in a tuple (fixed, unchangeable)
+
 subjects = ("Math", "Science", "English", "History")
 
 # Grade boundaries (A, B, C, D, F)
